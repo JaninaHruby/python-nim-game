@@ -43,4 +43,4 @@ Ensure streichholz.png is in the same directory.
 
 Install dependencies: pip install numpy pillow matplotlib
 
-Run the game: python nim_spiel.py
+Run the game: Streichholzspiel.ipynb
